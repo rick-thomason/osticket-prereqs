@@ -18,10 +18,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create Windows 10 VM w/ 2-4 vCPU's using Microsoft Azure
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Install Web Server (IIS) for running osTicket
+- Install PHP and Enable appropriate PHP extensions
+- Install HeidiSQL
+- Download and Install osTicket
 
 <h2>Installation Steps</h2>
 
